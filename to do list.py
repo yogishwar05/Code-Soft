@@ -44,7 +44,6 @@ class ToDoList:
         self.save_tasks()
         print("All tasks cleared.")
 
-# Main function
 def main():
     todo_list = ToDoList()
 
